@@ -1,0 +1,8 @@
+Profe perdón por la molestias, tuve un error con angular, entonces me tocó realizar el proyecto con react en un nuevo repositorio
+el cual adjunto aqui mismo 
+
+https://github.com/JDGM1038/Proyectofinalreact.git
+
+perdón por el inconveniente y las molestias
+
+Jose David Gaviria Mena
